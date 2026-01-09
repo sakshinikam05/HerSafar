@@ -113,28 +113,38 @@ This approach **reduces misuse** and **builds strong user confidence**.
 
 ## 🧠 Technology Stack
 
-### 🎨 Frontend
-- HTML5 (semantic structure)
-- CSS3 (responsive design)
-- JavaScript (client-side validation)
-- Bootstrap (mobile-first UI)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" />
+</p>
 
-### ⚙️ Backend
-- Core PHP
-- Session-based authentication
-- Modular business logic
-- Secure request handling
+---
 
-### 🗄️ Database
-- MySQL
-- Relational schema
-- Foreign key constraints
-- Timestamped records
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php" height="48" />
+</p>
 
-### 🧰 Server & Tools
-- Apache Server
-- XAMPP
-- phpMyAdmin
+---
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+</p>
+
+---
+
+### Server & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="42" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" height="42" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/xampp/xampp.png" height="42" />
+</p>
 
 ---
 
@@ -519,12 +529,31 @@ Published strictly for **academic, portfolio, and evaluation purposes**.
 
 ## 👩‍💻 Developers
 
-**Sakshi Sudhir Nikam**  
-Primary Developer & Project Lead 
+<p align="center">
+  <a href="https://github.com/sakshinikam05">
+    <img src="https://avatars.githubusercontent.com/u/sakshinikam05" width="110" style="border-radius:50%" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sukhadajoshi13">
+    <img src="https://avatars.githubusercontent.com/u/sukhadajoshi13" width="110" style="border-radius:50%" />
+  </a>
+</p>
 
-**Sukhada Deepak Joshi**  
-Contributor & Development Support | 
-GitHub: https://github.com/sukhadajoshi13
+<p align="center">
+  <b>Sakshi Sudhir Nikam</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Sukhada Deepak Joshi</b>
+</p>
+
+<p align="center">
+  Primary Developer & Project Lead &nbsp;&nbsp;|&nbsp;&nbsp;
+  Contributor & Development Support
+</p>
+
+<p align="center">
+  <a href="https://github.com/sakshinikam05">GitHub</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/sukhadajoshi13">GitHub</a>
+</p>
 
 This project was collaboratively developed with a shared commitment to **women’s safety, accountability, and trust**, blending technical expertise with empathy-driven design to create a safer digital mobility platform.
 
@@ -544,4 +573,5 @@ This project represents not only technical implementation, but also **empathy-dr
 Thank you for taking the time to explore **HerSafar**.
 
 ---
+
 
